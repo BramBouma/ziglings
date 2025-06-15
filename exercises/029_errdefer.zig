@@ -12,7 +12,7 @@
 //
 // The cleanup() function is called ONLY if the "try" statement returns an
 // error produced by canFail().
-//
+
 const std = @import("std");
 
 var counter: u32 = 0;
